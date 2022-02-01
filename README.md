@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am a developer who love to code.
-
+🤔THE WORLD IS NOT ALL CUPCAKES AND RAINBOWS
 <!--
 **branchdev98/branchdev98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
