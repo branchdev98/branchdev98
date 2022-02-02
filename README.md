@@ -1,5 +1,5 @@
 ### Hi there 👋
-🤔Although the world is not all cupcakes and rainbows, Let me show my true colors of coding to all.
+🤔Although the world is not all cupcakes and rainbows, Let me show my true colors to all.
 <!--
 **branchdev98/branchdev98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
