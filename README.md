@@ -1,5 +1,9 @@
 ### Hi there 👋
 🤔Although the world is not all cupcakes and rainbows, Let me show my true colors to all.
+
+- 📫 How to reach me: ...
+  mail inbox: artemshykurin98@gmail.com
+  telegram account: https://t.me/branchdev
 <!--
 **branchdev98/branchdev98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
