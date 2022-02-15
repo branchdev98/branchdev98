@@ -4,7 +4,7 @@
 - 📫 How to reach me: ...
   mail inbox: artemshykurin98@gmail.com
   telegram account: https://t.me/branchdev
-  <img src="https://miro.medium.com/max/1024/1*J8xwRYjRNLhPnCD-Yngurg.gif">
+  
 - 🔭 I’m currently working on **go eft tapping**
 
 
