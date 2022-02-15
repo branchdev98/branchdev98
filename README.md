@@ -5,7 +5,7 @@
   mail inbox: artemshykurin98@gmail.com
   telegram account: https://t.me/branchdev
   <img src="https://www.softprodigysolutions.com/wp-content/uploads/2019/08/DApp-Development.png">
- <img src="https://miro.medium.com/max/1000/1*ZnVbmWK9nAothEg_de2fOA.jpeg">
+ <img src="https://thumbs.gfycat.com/FlippantFlickeringEquestrian-max-1mb.gif">
 - 🔭 I’m currently working on **go eft tapping**
 
 
