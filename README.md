@@ -4,7 +4,7 @@
 - 📫 How to reach me: ...
   mail inbox: artemshykurin98@gmail.com
   telegram account: https://t.me/branchdev
-  
+  <img src="https://www.softprodigysolutions.com/wp-content/uploads/2019/08/DApp-Development.png">
   
 - 🔭 I’m currently working on **go eft tapping**
 
