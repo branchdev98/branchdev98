@@ -5,7 +5,6 @@
   mail inbox: artemshykurin98@gmail.com
   telegram account: https://t.me/branchdev98
   
-- 🔭 I’m currently working on **go eft tapping** mobile app project.
 
 
 <h3 align="left">Connect with me:</h3>
